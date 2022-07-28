@@ -54,6 +54,7 @@ body {
 
 .container {
   max-width: 350px;
+  margin: 0px 10px;
 }
 
 .container .quote {
